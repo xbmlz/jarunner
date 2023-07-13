@@ -1,0 +1,1 @@
+go build -ldflags="-s -w" -buildmode=c-archive -o libjarunner.a main.go

@@ -10,8 +10,3 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 build/
-lib/*.a
-lib/*.so
-lib/*.dylib
-lib/*.dll
-lib/*.h
